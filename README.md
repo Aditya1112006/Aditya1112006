@@ -311,12 +311,6 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -378,7 +372,9 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <br><br>
 
-*"Building today. Engineering for tomorrow."*
+*"Programming isn't about what you know; it's about what you can figure out."*
+
+**— Chris Pine**
 
 </div>
 
