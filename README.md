@@ -211,22 +211,6 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
-### 📌 Pinned Repository Cards
-
-<div align="center">
-
-<a href="https://github.com/Aditya1112006/AI-Prototype-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=AI-Prototype-Generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Aditya1112006/Jarvis-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
-</a>
-<a href="https://github.com/Aditya1112006/Smart-Parking-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=Smart-Parking-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
-</a>
-
-</div>
-
 ---
 
 ## 🏅 Certifications
@@ -278,8 +262,8 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true&rank_icon=github&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
