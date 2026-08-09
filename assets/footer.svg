@@ -1,0 +1,20 @@
+<svg width="854" height="120" viewBox="0 0 854 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5"/>
+      <stop offset="50%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#9333EA"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="854" height="120" fill="url(#bgGrad)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="100" cy="80"  r="80"  fill="rgba(255,255,255,0.05)"/>
+  <circle cx="750" cy="40"  r="90"  fill="rgba(255,255,255,0.05)"/>
+
+  <!-- Wave top layers (inverted — wave goes up) -->
+  <path d="M0,0 L854,0 L854,48 C730,28 610,55 490,36 C370,17 250,48 130,30 C80,22 35,40 0,32 Z" fill="rgba(0,0,0,0.15)"/>
+  <path d="M0,0 L854,0 L854,30 C680,12 520,38 360,20 C220,5 100,28 0,15 Z" fill="rgba(0,0,0,0.1)"/>
+</svg>

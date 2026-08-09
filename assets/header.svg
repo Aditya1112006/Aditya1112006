@@ -1,0 +1,63 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4F46E5"/>
+      <stop offset="50%" style="stop-color:#7C3AED"/>
+      <stop offset="100%" style="stop-color:#9333EA"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .title {
+        animation: fadeSlideIn 1.2s ease-out both;
+      }
+      .subtitle {
+        animation: fadeSlideIn 1.6s ease-out both;
+      }
+      @keyframes fadeSlideIn {
+        from { opacity: 0; transform: translateY(12px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background gradient fill -->
+  <rect width="854" height="220" fill="url(#bgGrad)"/>
+
+  <!-- Decorative blurred circles -->
+  <circle cx="80"  cy="60"  r="90"  fill="rgba(255,255,255,0.06)"/>
+  <circle cx="770" cy="160" r="110" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="427" cy="-30" r="160" fill="rgba(255,255,255,0.04)"/>
+  <circle cx="200" cy="200" r="60"  fill="rgba(255,255,255,0.03)"/>
+  <circle cx="650" cy="20"  r="50"  fill="rgba(255,255,255,0.04)"/>
+
+  <!-- Wave bottom layers -->
+  <path d="M0,175 C80,155 180,195 300,172 C420,149 530,190 650,170 C740,155 800,178 854,168 L854,220 L0,220 Z" fill="rgba(0,0,0,0.18)"/>
+  <path d="M0,190 C120,175 260,205 400,188 C520,173 640,200 760,185 C800,178 835,190 854,192 L854,220 L0,220 Z" fill="rgba(0,0,0,0.12)"/>
+
+  <!-- Name -->
+  <text class="title"
+        x="427" y="102"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="50"
+        font-weight="700"
+        fill="white"
+        text-anchor="middle"
+        letter-spacing="1.5"
+        filter="url(#glow)">Aditya Chauhan</text>
+
+  <!-- Subtitle -->
+  <text class="subtitle"
+        x="427" y="148"
+        font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+        font-size="18"
+        font-weight="400"
+        fill="#E9D5FF"
+        text-anchor="middle"
+        letter-spacing="0.5">CSE AI&amp;ML  •  AI Engineer in Progress  •  Full Stack Developer</text>
+</svg>

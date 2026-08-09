@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=220&section=header&text=Aditya%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20AI%26ML%20%E2%80%A2%20AI%20Engineer%20in%20Progress%20%E2%80%A2%20Full%20Stack%20Developer&descSize=19&descAlignY=60&descColor=E9D5FF"/>
+<img src="./assets/header.svg" width="100%" alt="Aditya Chauhan"/>
 
 </div>
 
@@ -366,6 +366,6 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=120&section=footer"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
