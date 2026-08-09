@@ -1,31 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=180&section=header&text=Aditya%20Chauhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=220&section=header&text=Aditya%20Chauhan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20AI%26ML%20%E2%80%A2%20AI%20Engineer%20in%20Progress%20%E2%80%A2%20Full%20Stack%20Developer&descSize=19&descAlignY=60&descColor=E9D5FF"/>
+
+</div>
+
+<div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=CSE+AI%26ML+Student;AI%2FML+%7C+Software+Engineering+Enthusiast;Full+Stack+Developer+in+Progress;Building+AI-Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=CSE+AI%26ML+Student+%40+Shoolini+University+%F0%9F%8E%93;Building+AI-Powered+Applications+%F0%9F%9A%80;Full+Stack+Developer+in+Progress+%F0%9F%92%BB;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D;Learning+by+Building+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br><br>
+</div>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20AI%26ML-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shoolini%20University-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Graduating-2028-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Solan%2C%20Himachal%20Pradesh-4338CA?style=for-the-badge"/>
+<br>
 
-<br><br>
+<div align="center">
+
+![](https://img.shields.io/badge/B.Tech-CSE%20AI%26ML-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/University-Shoolini-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Graduating-2028-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/Location-Himachal%20Pradesh-4338CA?style=for-the-badge)
+
+</div>
+
+<div align="center">
 
 <a href="mailto:chauhanaditya1112006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aditya-chauhan-8932a936b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Aditya1112006">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Aditya1112006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Aditya1112006&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"/>
 
@@ -33,188 +47,223 @@
 
 ---
 
-# About Me
+## 👨‍💻 About Me
 
-I am **Aditya Chauhan**, a B.Tech Computer Science Engineering student specializing in **Artificial Intelligence & Machine Learning** at **Shoolini University**, Himachal Pradesh.
+<table>
+<tr>
+<td valign="top" width="58%">
 
-I am focused on building a strong foundation in **software engineering, artificial intelligence, machine learning, and full-stack development** while working on practical projects that solve real-world problems.
+### Hi, I'm Aditya! 👋
 
-My current technical interests include:
+I'm a **B.Tech CSE (AI & ML)** student at **Shoolini University**, Himachal Pradesh — driven by a passion for building intelligent systems and full-stack applications that solve real-world problems.
 
-- Artificial Intelligence & Machine Learning
-- Generative AI
-- AI-powered applications
-- Software Engineering
-- Full-Stack Development
-- Database Systems
-- Problem Solving & DSA
-- Developer Tools and Automation
+- 🔭 **Currently Building:** AI-Powered Applications & Full-Stack Projects
+- 🌱 **Currently Learning:** LLMs · Generative AI · React · Node.js
+- 🎯 **Goal:** Land a Software / AI Engineering role by 2026
+- 🤝 **Open to:** Internships · Collaborations · Open Source
+- ⚡ **Philosophy:** Learn by Building — turning concepts into working apps
 
-I believe in learning by building — turning concepts into working applications and continuously improving engineering practices.
+</td>
+<td valign="top" width="42%" align="center">
 
-**Open to:** internships, collaborative projects, open-source opportunities, and AI/software engineering opportunities.
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-# Tech Stack
+## 🛠️ Tech Stack
 
-## Languages
+<div align="center">
 
-<p align="center">
+**💻 Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html,css,sql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css,sql&perline=8"/>
 
-</p>
+<br>
 
-## Frontend
+**🎨 Frontend**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,javascript,vite,tailwind&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react&perline=8"/>
+<br>
 
-</p>
-
-## Backend & Databases
-
-<p align="center">
+**⚙️ Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&perline=8"/>
 
-</p>
+<br>
 
-## Tools & Development
+**🔧 Tools & Development**
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,notion,linux&perline=8"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,notion&perline=8"/>
-
-</p>
-
-Additional tools:
+<br>
 
 `Google Analytics` · `DaVinci Resolve`
 
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Focus |
-|---|---|---|
-| Artificial Intelligence | Intermediate | AI application development |
-| Generative AI | Intermediate | LLM-powered applications |
-| Machine Learning | Beginner–Intermediate | ML fundamentals and applications |
-| AI Application Development | Intermediate | Building practical AI systems |
-| Python | Intermediate | AI/ML and software development |
-| Databases | Intermediate | SQL and NoSQL systems |
-| Full-Stack Development | Beginner–Intermediate | Frontend + backend application development |
+</div>
 
 ---
 
-# Featured Projects
-
-<details>
-<summary><strong>AI Prototype Generator</strong></summary>
-
-<br>
-
-An AI-powered application designed to transform user ideas into structured software prototypes and starter implementations.
-
-| Category | Details |
-|---|---|
-| Stack | React, Vite, Tailwind CSS, Node.js, Express, AI/LLM |
-| Focus | AI-powered prototype generation |
-| Architecture | Client–Server |
-| AI | Large Language Models |
-| Engineering | Context-aware generation and structured workflows |
-| Repository | [View Repository](https://github.com/Aditya1112006) |
-
-The project explores how Generative AI can assist developers in moving from an initial idea toward a structured and functional software prototype.
-
-</details>
-
----
-
-<details>
-<summary><strong>Jarvis AI</strong></summary>
-
-<br>
-
-A personal AI assistant project focused on creating an interactive assistant capable of processing user commands and providing AI-powered responses.
-
-| Category | Details |
-|---|---|
-| Stack | Python, AI/ML |
-| Focus | Personal AI Assistant |
-| AI | Natural Language Processing / Generative AI |
-| Interaction | Voice / Text based interaction |
-| Goal | Intelligent task assistance |
-| Repository | [View Repository](https://github.com/Aditya1112006) |
-
-The project focuses on understanding the fundamentals behind AI assistants and integrating intelligent responses into a practical application.
-
-</details>
-
----
-
-<details>
-<summary><strong>Smart Parking Management System</strong></summary>
-
-<br>
-
-A software solution designed to improve parking management through digital tracking and organized parking-space management.
-
-| Category | Details |
-|---|---|
-| Stack | JavaScript, HTML, CSS, Database |
-| Focus | Smart Parking |
-| System | Parking management |
-| Goal | Improve parking-space organization |
-| Application | Real-world management system |
-| Repository | [View Repository](https://github.com/Aditya1112006) |
-
-The project demonstrates the application of software engineering principles to solve a practical infrastructure and management problem.
-
-</details>
-
----
-
-# Certifications
-
-## Microsoft
-
-<img src="https://img.shields.io/badge/Microsoft-Introduction%20to%20AI%20in%20Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-**Introduction to AI in Azure**
-
----
-
-<img src="https://img.shields.io/badge/Microsoft-Develop%20AI%20Apps%20and%20Agents%20on%20Azure-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-**Develop AI apps and agents on Azure**
-
----
-
-<img src="https://img.shields.io/badge/Microsoft-Operationalize%20ML%20%26%20Generative%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-**Operationalize Machine Learning and Generative AI Solutions**
-
----
-
-## Amazon Web Services
-
-<img src="https://img.shields.io/badge/AWS-Introduction%20to%20Generative%20AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**Introduction to Generative AI – Art of the Possible**
-
----
-
-# GitHub Analytics
+## 🤖 AI / ML Expertise
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9"/>
+| Domain | Level | Proficiency |
+|:---|:---:|:---:|
+| 🧠 Artificial Intelligence | Intermediate | ![](https://img.shields.io/badge/70%25-7C3AED?style=flat-square&logoColor=white) |
+| ✨ Generative AI | Intermediate | ![](https://img.shields.io/badge/65%25-8B5CF6?style=flat-square&logoColor=white) |
+| 📊 Machine Learning | Beginner–Intermediate | ![](https://img.shields.io/badge/50%25-A78BFA?style=flat-square&logoColor=white) |
+| 🏗️ AI Application Development | Intermediate | ![](https://img.shields.io/badge/70%25-7C3AED?style=flat-square&logoColor=white) |
+| 🐍 Python | Intermediate | ![](https://img.shields.io/badge/70%25-4F46E5?style=flat-square&logoColor=white) |
+| 🗄️ Databases (SQL & NoSQL) | Intermediate | ![](https://img.shields.io/badge/65%25-6D28D9?style=flat-square&logoColor=white) |
+| 🌐 Full-Stack Development | Beginner–Intermediate | ![](https://img.shields.io/badge/45%25-4338CA?style=flat-square&logoColor=white) |
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 AI Prototype Generator
+
+> *Transform ideas into structured software prototypes*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Powered-8B5CF6?style=flat-square)
+
+An AI-powered application that uses large language models to transform user ideas into structured, functional software prototypes and starter implementations.
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1112006)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 Jarvis AI
+
+> *Personal AI assistant for intelligent task assistance*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4F46E5?style=flat-square)
+![GenAI](https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square)
+![Voice](https://img.shields.io/badge/Voice%2FText-6D28D9?style=flat-square)
+
+A personal AI assistant capable of understanding and processing voice/text commands, providing intelligent AI-powered responses and task assistance.
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1112006)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🅿️ Smart Parking Management System
+
+> *Digital solution for organized parking management*
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Database](https://img.shields.io/badge/Database-4338CA?style=flat-square)
+
+A software solution improving parking management through digital tracking and organized parking-space allocation with real-time management capabilities.
+
+<br>
+
+[![View Project](https://img.shields.io/badge/View_Project-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1112006)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔜 More Projects Coming Soon...
+
+> *Currently in development*
+
+![Status](https://img.shields.io/badge/Status-In_Development-7C3AED?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-8B5CF6?style=flat-square)
+![Follow](https://img.shields.io/badge/Stay_Tuned-4F46E5?style=flat-square)
+
+Currently working on exciting new projects in **AI, Full-Stack Development**, and **Developer Tools**. Follow to stay updated!
+
+<br>
+
+[![Follow for Updates](https://img.shields.io/badge/Follow_for_Updates-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya1112006)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Introduction to AI in Azure** ✅
+
+</td>
+<td align="center" width="33%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Develop AI Apps & Agents on Azure** ✅
+
+</td>
+<td align="center" width="33%">
+
+![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+**Operationalize ML & Generative AI Solutions** ✅
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="3">
+
+<br>
+
+![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Introduction to Generative AI – Art of the Possible** ✅
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
@@ -222,13 +271,13 @@ The project demonstrates the application of software engineering principles to s
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aditya1112006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6"/>
+<img src="https://streak-stats.demolab.com?user=Aditya1112006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&sideNums=8B5CF6&dates=C9D1D9"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -238,49 +287,59 @@ The project demonstrates the application of software engineering principles to s
 
 ---
 
-# Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1112006&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya1112006&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=7C3AED&area=true&hide_border=true&area_color=7C3AED"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditya1112006/Aditya1112006/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya1112006/Aditya1112006/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya1112006/Aditya1112006/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aditya1112006/Aditya1112006/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
 ---
 
-# Connect With Me
+## 🤝 Let's Connect!
 
 <div align="center">
+
+### I'm always open to interesting conversations, collaborations, and opportunities!
+
+<br>
 
 <a href="mailto:chauhanaditya1112006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aditya-chauhan-8932a936b">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Chauhan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Aditya1112006">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Aditya1112006">
-<img src="https://img.shields.io/badge/GitHub-Aditya1112006-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br><br>
+
+*"Building today. Engineering for tomorrow."*
 
 </div>
 
 ---
 
 <div align="center">
-
-### Building today. Engineering for tomorrow.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:9333EA&height=120&section=footer"/>
 
