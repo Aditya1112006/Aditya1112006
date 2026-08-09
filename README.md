@@ -45,7 +45,7 @@
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 👨‍💻 About Me
 
@@ -66,13 +66,13 @@ I'm a **B.Tech CSE (AI & ML)** student at **Shoolini University**, Himachal Prad
 </td>
 <td valign="top" width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+<img src="./assets/terminal.svg" width="340" alt="Coding Terminal Animation"/>
 
 </td>
 </tr>
 </table>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🛠️ Tech Stack
 
@@ -106,25 +106,17 @@ I'm a **B.Tech CSE (AI & ML)** student at **Shoolini University**, Himachal Prad
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🤖 AI / ML Expertise
 
 <div align="center">
 
-| Domain | Level | Proficiency |
-|:---|:---:|:---:|
-| 🧠 Artificial Intelligence | Intermediate | ![](https://img.shields.io/badge/70%25-7C3AED?style=flat-square&logoColor=white) |
-| ✨ Generative AI | Intermediate | ![](https://img.shields.io/badge/65%25-8B5CF6?style=flat-square&logoColor=white) |
-| 📊 Machine Learning | Beginner–Intermediate | ![](https://img.shields.io/badge/50%25-A78BFA?style=flat-square&logoColor=white) |
-| 🏗️ AI Application Development | Intermediate | ![](https://img.shields.io/badge/70%25-7C3AED?style=flat-square&logoColor=white) |
-| 🐍 Python | Intermediate | ![](https://img.shields.io/badge/70%25-4F46E5?style=flat-square&logoColor=white) |
-| 🗄️ Databases (SQL & NoSQL) | Intermediate | ![](https://img.shields.io/badge/65%25-6D28D9?style=flat-square&logoColor=white) |
-| 🌐 Full-Stack Development | Beginner–Intermediate | ![](https://img.shields.io/badge/45%25-4338CA?style=flat-square&logoColor=white) |
+<img src="./assets/skills.svg" width="100%" alt="AI ML Skills"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🚀 Featured Projects
 
@@ -211,7 +203,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🏅 Certifications
 
@@ -256,7 +248,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 📊 GitHub Analytics
 
@@ -275,7 +267,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🏆 GitHub Trophies
 
@@ -285,7 +277,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 📈 Contribution Activity
 
@@ -295,7 +287,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🐍 Contribution Snake
 
@@ -309,7 +301,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🏙️ 3D Contribution Calendar
 
@@ -325,14 +317,14 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 ## 🤝 Let's Connect!
 
@@ -362,7 +354,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
----
+<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
 
 <div align="center">
 
