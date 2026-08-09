@@ -211,6 +211,22 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
+### 📌 Pinned Repository Cards
+
+<div align="center">
+
+<a href="https://github.com/Aditya1112006/AI-Prototype-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=AI-Prototype-Generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Aditya1112006/Jarvis-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=Jarvis-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/Aditya1112006/Smart-Parking-Management-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aditya1112006&repo=Smart-Parking-Management-System&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9" />
+</a>
+
+</div>
+
 ---
 
 ## 🏅 Certifications
@@ -295,6 +311,12 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 </div>
 
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -308,6 +330,29 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 </picture>
 
 </div>
+
+---
+
+## 🏙️ 3D Contribution Calendar
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg"/>
+  <img alt="3D Contribution Calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+</picture>
+
+> *Auto-generated daily — shows your entire contribution history as a 3D city skyline* 🏙️
+
+</div>
+
+---
+
+## ⚡ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
