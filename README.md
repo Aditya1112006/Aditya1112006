@@ -271,7 +271,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aditya1112006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&sideNums=8B5CF6&dates=C9D1D9"/>
+<img src="https://streak-stats.demolab.com?user=Aditya1112006&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6&sideLabels=C9D1D9&sideNums=8B5CF6&dates=C9D1D9&mode=weekly"/>
 
 </div>
 
@@ -283,7 +283,7 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 ![Stars](https://img.shields.io/github/stars/Aditya1112006?style=for-the-badge&logo=github&label=Total%20Stars&color=8B5CF6&labelColor=0D1117)
 ![Followers](https://img.shields.io/github/followers/Aditya1112006?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=0D1117)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya1112006&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=6D28D9&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/Public%20Repos-8-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)
 
 <br>
 
