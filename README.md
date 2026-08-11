@@ -262,8 +262,8 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true&rank_icon=github&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Aditya1112006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=7C3AED&text_color=C9D1D9&count_private=true&rank_icon=github&cache_seconds=1800"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aditya1112006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8&cache_seconds=1800"/>
 
 </div>
 
@@ -281,7 +281,16 @@ Currently working on exciting new projects in **AI, Full-Stack Development**, an
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aditya1112006&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+![Stars](https://img.shields.io/github/stars/Aditya1112006?style=for-the-badge&logo=github&label=Total%20Stars&color=8B5CF6&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/Aditya1112006?style=for-the-badge&logo=github&label=Followers&color=7C3AED&labelColor=0D1117)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAditya1112006&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=6D28D9&labelColor=0D1117)
+
+<br>
+
+![Commits](https://img.shields.io/badge/Commits-Active%20Coder-4F46E5?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0D1117)
+![AI%20Builder](https://img.shields.io/badge/AI-Builder-8B5CF6?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![Full%20Stack](https://img.shields.io/badge/Full%20Stack-Developer-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)
 
 </div>
 
